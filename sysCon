@@ -1,0 +1,5 @@
+desc first;
+
+create table first (first_name varchar2(30) , user_password varchar2(30));
+
+select * from first;
